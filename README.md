@@ -1,0 +1,2 @@
+# A_vegetable_chicken_learning_C_language_process
+一个菜鸡学习C语言的过程
